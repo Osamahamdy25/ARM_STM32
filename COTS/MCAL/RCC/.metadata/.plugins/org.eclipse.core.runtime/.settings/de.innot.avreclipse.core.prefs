@@ -1,0 +1,10 @@
+avrdude/configs/programmerconfig.2/baudrate=
+avrdude/configs/programmerconfig.2/description=Default AVRDude Programmer Configuration. Modify as required for your setup.
+avrdude/configs/programmerconfig.2/name=USBasp
+avrdude/configs/programmerconfig.2/otherOptions=
+avrdude/configs/programmerconfig.2/port=
+avrdude/configs/programmerconfig.2/postAvrdudeDelayMs=
+avrdude/configs/programmerconfig.2/ppresetline=
+avrdude/configs/programmerconfig.2/ppvccline=
+avrdude/configs/programmerconfig.2/programmer=usbasp
+eclipse.preferences.version=1
